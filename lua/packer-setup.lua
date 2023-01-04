@@ -46,6 +46,16 @@ require('packer').startup(function(use)
         requires = {'nvim-lua/plenary.nvim'}
     }
     use { 'nvim-telescope/telescope-fzf-native.nvim', run = 'make', cond = vim.fn.executable 'make' == 1 }
+    use 'nvim-telescope/telescope-symbols.nvim'
+
+    use {
+        'nvim-tree/nvim-tree.lua',
+        requires = {
+            'nvim-tree/nvim-web-devicons'
+        }
+    }
+
+
 
     if is_bootstrap then
         require('packer').sync()

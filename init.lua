@@ -16,6 +16,8 @@ require('packer-setup')
 require('lualine-setup')
 require('comment-setup')
 require('telescope-setup')
+require('nvim-tree-setup')
+require('completion-setup')
 
 -- some keymaps for interacting with windows
 require('windowing')

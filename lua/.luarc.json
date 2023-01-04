@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.completion.autoRequire": false,
+    "Lua.workspace.library": [
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/neodev.nvim/types/stable",
+        "/usr/local/Cellar/neovim/0.8.1/share/nvim/runtime",
+        "/Users/varun/.local/share/nvim/site/pack/packer/opt/telescope-fzf-native.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/Comment.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/duokai.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/fidget.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/lush.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/neodev.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/Users/varun/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "${3rd}/luassert/library"
+    ]
+}
